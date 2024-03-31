@@ -1,8 +1,8 @@
 ## Lucas Rocha
-👋 Hello, world! I'm Lucas
-🎓 Studying Computer Systems at [UFF - Univesidade Federal Fluminense](https://www.uff.br)
-📚 Taking the Harvard CS50
-👨🏻‍💻 Interested in programming, especially backend languages
+👋 Hello, world! I'm Lucas <br>
+🎓 Studying Computer Systems at [UFF - Univesidade Federal Fluminense](https://www.uff.br) <br>
+📚 Taking the Harvard CS50 <br>
+👨🏻‍💻 Interested in programming, especially backend languages <br>
 
 
 ---
