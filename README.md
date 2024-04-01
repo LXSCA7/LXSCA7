@@ -8,7 +8,7 @@
 ---
 ### Technologies I'm currently learning:
 
-![Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp; ![Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)
 
 --- 
 ### Technologies I'm interested in:
