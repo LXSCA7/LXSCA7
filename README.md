@@ -2,21 +2,21 @@
 👋 Hello, world! I'm Lucas <br>
 🎓 Studying Computer Systems at [UFF - Universidade Federal Fluminense](https://www.uff.br) <br>
 📚 Taking Harvard CS50 <br>
+💻 Bootcamp DIO - .NET developer <br>
 👨🏻‍💻 Interested in programming, especially backend languages <br>
-
 
 ---
 ### Technologies I'm currently learning:
 
-![Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp; ![Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)
+![Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&logoColor=white) &nbsp; ![!Badge](https://img.shields.io/badge/.NET-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white) 
 
 --- 
 ### Technologies I'm interested in:
-![Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
-### Other knowledges:
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) &nbsp; ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) &nbsp; ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### My knowledges:
+![Badge](https://img.shields.io/badge/git-efefe7?style=for-the-badge&logo=git&logoColor=#f54d27) &nbsp; ![Badge](https://img.shields.io/badge/github-272b33?style=for-the-badge&logo=github&logoColor=#f54d27) &nbsp; ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) &nbsp; ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) &nbsp; ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
 
