@@ -23,4 +23,4 @@
 
 💻 My repositories will contain content from the courses I take, my personal projects, and some challenges I've set out to complete. Feel free to contribute or give feedback on my projects if you want!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LXSCA7&langs_count=4&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LXSCA7&layout=donut)
