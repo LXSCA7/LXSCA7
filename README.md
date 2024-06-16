@@ -2,7 +2,6 @@
 👋 Hello, world! I'm Lucas <br>
 🎓 Studying Computer Systems at [UFF - Universidade Federal Fluminense](https://www.uff.br) <br>
 📚 Taking Harvard CS50 <br>
-💻 Bootcamp DIO - .NET developer <br>
 👨🏻‍💻 Interested in programming, especially backend languages <br>
 
 ---
