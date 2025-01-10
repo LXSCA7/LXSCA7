@@ -8,7 +8,7 @@
 ### Technologies I'm currently learning:
 
 <!--  [![Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white) &nbsp;](url) -->
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp; ![Badge](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) &nbsp; ![Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp; ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) &nbsp; ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 --- 
 ### Technologies I'm interested in:
