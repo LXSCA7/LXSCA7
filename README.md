@@ -17,7 +17,7 @@
 ![Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 --- 
 ### Technologies I'm interested in:
-![Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Badge](https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 
 ---
 ### My repositories
