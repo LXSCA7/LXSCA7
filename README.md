@@ -1,11 +1,11 @@
-## Hi there, I'm Lucas Rocha 👋
+## hello, world! i'm Lucas Rocha 👋
 
 * back-end developer <br/>
 * studying computer systems at [Universidade Federal Fluminense](https://www.uff.br)<br/>
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 **Languages**
 <p>
@@ -52,7 +52,7 @@
 
 ---
 
-### 🌱 Currently Exploring
+### Currently Exploring
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
