@@ -2,9 +2,9 @@
 
 I build **resilient, high-performance back-end systems**. Currently focused on financial infrastructure, automation at scale, and observability.
 
-* 💻 **Software Engineer** at Virtual Software, sustaining critical treasury systems (VCASH).
+* 💻 **Software Engineer** at Virtual Software, sustaining critical systems.
 * 🎓 Studying **Computer Systems** at [Universidade Federal Fluminense](https://www.uff.br).
-* 🦀 Building in **Go** and **.NET**, with a deep interest in distributed systems, concurrency, and being a **Rust enthusiast** 🦀.
+* 🦀 Building in **Go** and **.NET**, with a deep interest in distributed systems, concurrency, and being a **Rust enthusiast**.
 
 ---
 
