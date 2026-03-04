@@ -1,74 +1,53 @@
-## hello, world! i'm Lucas Rocha 👋
+## Hi there, I'm Lucas Rocha 👋
 
-* back-end developer <br/>
-* studying computer systems at [Universidade Federal Fluminense](https://www.uff.br)<br/>
+I build **resilient, high-performance back-end systems**. Currently focused on financial infrastructure, automation at scale, and observability.
+
+* 💻 **Software Engineer** at Virtual Software, sustaining critical treasury systems (VCASH).
+* 🎓 Studying **Computer Systems** at [Universidade Federal Fluminense](https://www.uff.br).
+* 🦀 Building in **Go** and **.NET**, with a deep interest in distributed systems, concurrency, and being a **Rust enthusiast** 🦀.
 
 ---
 
-### My Tech Stack
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS Badge"/>
-</p>
+### 🛡️ Proof of Work (Featured Projects)
 
-**Backend & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/.NET-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
-  <img src="https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=fff" alt="Bun Badge"/>
-</p>
+* 🔍 **[GOrimpo](https://github.com/LXSCA7/gorimpo)**: High-performance scraping engine in Go. Processed **2M+ ads** in 2 weeks with advanced stealth bypass (Cloudflare).
+* 🏦 **[Pix Ledger](https://github.com/LXSCA7/pix-ledger)**: Immutable banking core simulation using SHA-256 chaining and Double-Entry bookkeeping.
+* ☄️ **[Comet](https://github.com/getcomet/comet-app)**: Real-time meeting risk detector built for the Gemini 3 Hackathon using Go, Wails, and AI.
+
+---
+
+### 🛠️ My Tech Stack
+
+**Languages & Core**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Infrastructure & Observability**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 **Databases**
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server Badge"/>
-  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor Badge"/>
-  <img src="https://img.shields.io/badge/Astro-191919?style=for-the-badge&logo=astro&logoColor=ff5d0100&labelColor=191919" />
-  <img src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo" alt="Hugo" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-</p>
-
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/github-272b33?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="i use arch btw" />
-  <img src="https://img.shields.io/badge/MacOS-f0f0f0?logo=apple&logoColor=black&style=for-the-badge" alt="i use arch btw" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio Badge"/>
-  <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=crimson&labelColor=crimson" alt="rider" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
 
-### Currently Exploring
-
-<p>
-  <!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/> -->
-  <!-- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring Boot Badge"/> -->
-  <img src="https://img.shields.io/badge/gRPC-%234285F4.svg?style=for-the-badge&logo=grpc&logoColor=white" alt="grpc" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust" />
-  <!-- <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/>
-  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte" alt="Svelte badge" /> -->
-
-</p>
-
----
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lxsca7&show_icons=true&theme=dracula&rank_icon=github" alt="Lucas Rocha's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxsca7&hide_progress=false&layout=donut" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LXSCA7&show_icons=true&theme=dracula&rank_icon=github&count_private=true" alt="Lucas's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LXSCA7&layout=donut&theme=dracula&hide_progress=false" alt="Top Langs" />
 </p>
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rocha27/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.edr27@gmail.com)
