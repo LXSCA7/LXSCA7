@@ -8,8 +8,6 @@ I build **resilient, high-performance back-end systems**. Currently focused on f
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 ### 🛡️ Proof of Work (Featured Projects)
 
 * 🔍 **[GOrimpo](https://github.com/LXSCA7/gorimpo)**: High-performance scraping engine in Go. Processed **2M+ ads** in 2 weeks with advanced stealth bypass (Cloudflare).
